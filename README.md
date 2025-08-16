@@ -12,7 +12,7 @@ Easy-to-understand Jupyter Notebook walkthrough
  Installation
 Clone this repository
 
-git clone https://github.com/your-username/movie-recommendation-system.git
+git clone https://github.com/poorna-0/movie-recommendation-system.git
 cd movie-recommendation-system
 Create a virtual environment (optional but recommended):
 
