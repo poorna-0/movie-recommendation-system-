@@ -25,7 +25,7 @@ pip install -r requirements.txt
 (If you don’t have a requirements.txt, you can generate one by running:)
 
 pip freeze > requirements.txt
-▶Usage
+Usage
 Run the Jupyter Notebook for step-by-step learning:
 
 jupyter notebook getting-started-with-a-movie-recommendation-system.ipynb
